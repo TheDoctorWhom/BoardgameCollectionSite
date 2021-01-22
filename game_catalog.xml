@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+	<GAME>
+		<TITLE>Citadels</TITLE>
+		<DIFFICULTY>hard</DIFFICULTY>
+		<PLAYERS>2-8 players</PLAYERS>
+		<TIME>45 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Race for the Galaxy</TITLE>
+		<DIFFICULTY>hard</DIFFICULTY>
+		<PLAYERS>2-4 players</PLAYERS>
+		<TIME>30-60 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Smash Up</TITLE>
+		<DIFFICULTY>hard</DIFFICULTY>
+		<PLAYERS>2-4 players</PLAYERS>
+		<TIME>45 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Dragon Quest</TITLE>
+		<DIFFICULTY>hard</DIFFICULTY>
+		<PLAYERS>2-6 players</PLAYERS>
+		<TIME>Forever</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Morels</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2 players</PLAYERS>
+		<TIME>30 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Agricola: All Things Big	 and Small</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2 players</PLAYERS>
+		<TIME>30 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com//boardgame/119890/agricola-all-creatures-big-and-small</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Cutthroat Caverns</TITLE>
+		<DIFFICULTY>hard</DIFFICULTY>
+		<PLAYERS>3-6 players</PLAYERS>
+		<TIME>90 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Kill Doctor Lucky</TITLE>
+		<DIFFICULTY>?</DIFFICULTY>
+		<PLAYERS>3-7 players</PLAYERS>
+		<TIME>? min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Dark Riders Games</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>3-4 players</PLAYERS>
+		<TIME>? min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Star Trek: Desk Builder</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2-5 players</PLAYERS>
+		<TIME>80-90 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Random Encounters</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>1-5 players</PLAYERS>
+		<TIME>15-20 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Catptain Treasure boots</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2-6 players</PLAYERS>
+		<TIME>40 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Zombies!!!</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2-6 players</PLAYERS>
+		<TIME>40-60 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Munchkin</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>3-6 players</PLAYERS>
+		<TIME>60-120 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Portal</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2-4 players</PLAYERS>
+		<TIME>30-40 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Wits and Wagers</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>4-20 players</PLAYERS>
+		<TIME>25 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Hover Kraft</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>any players</PLAYERS>
+		<TIME>? min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Splender</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2-4 players</PLAYERS>
+		<TIME>30 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>The Haunting House</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2-6 players</PLAYERS>
+		<TIME>45 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Game of Thrones</TITLE>
+		<DIFFICULTY>hard</DIFFICULTY>
+		<PLAYERS>2 players</PLAYERS>
+		<TIME>30-60 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Babylon 5</TITLE>
+		<DIFFICULTY>hard</DIFFICULTY>
+		<PLAYERS>2 players</PLAYERS>
+		<TIME>30-60 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Melee</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2-4 players</PLAYERS>
+		<TIME>20 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Gloom/ munchkin / space</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2-5 players</PLAYERS>
+		<TIME>60 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>The Infinite Boardgame</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>1-6 players</PLAYERS>
+		<TIME>10-45 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>All Queens Chess</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2 players</PLAYERS>
+		<TIME>? min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/34948/all-queens-chess</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Pack and Stack</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>3-6 players</PLAYERS>
+		<TIME>30-45 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>TMNT: Shadows of the Past</TITLE>
+		<DIFFICULTY>hard</DIFFICULTY>
+		<PLAYERS>2-5 players</PLAYERS>
+		<TIME>60-90 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Casscassonne</TITLE>
+		<DIFFICULTY>hard</DIFFICULTY>
+		<PLAYERS>2-5 players</PLAYERS>
+		<TIME>35 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Laterns</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2-4 players</PLAYERS>
+		<TIME>30 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Lock and Key The Game</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>3-6 players</PLAYERS>
+		<TIME>30 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Pac-man</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2-4 players</PLAYERS>
+		<TIME>15 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Ghostbusters</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>1-4 players</PLAYERS>
+		<TIME>60 min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>null</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Anatomy Park</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2-4 players</PLAYERS>
+		<TIME>30–60 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/220926/rick-and-morty-anatomy-park-game</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Captain treasure boots</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–6 players</PLAYERS>
+		<TIME>40 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/19114/captain-treasure-boots</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Cranium</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>4–16 players</PLAYERS>
+		<TIME>60 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/891/cranium</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Diamonds</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2–6 players</PLAYERS>
+		<TIME>20–30 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/152162/diamonds</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Entropy</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2–6 players</PLAYERS>
+		<TIME>15 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/171339/entropy</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Firefly Out Of The Black</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>3–5 players</PLAYERS>
+		<TIME>45 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/139137/firefly-out-black</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Cryptid</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>3–5 players</PLAYERS>
+		<TIME>30–50 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/246784/cryptid</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Forbidden Island</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>30 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/65244/forbidden-island</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Galaxy Trucker</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4  players</PLAYERS>
+		<TIME>60 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/31481/galaxy-trucker</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Ghostbuster</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>1–4 players</PLAYERS>
+		<TIME>30–120 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/173275/ghostbusters-board-game</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Gloom</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>60 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/12692/gloom</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>How to Rob a Bank</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>30 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/232079/how-rob-bank</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Indiana Jones DVD Adventure Game</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>30 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/35294/indiana-jones-dvd-adventure-game</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Jurassic Park Danger</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–5 players</PLAYERS>
+		<TIME>50 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/245431/jurassic-park-danger-adventure-strategy-game</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Kill Doctor Lucky</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>3–8 players</PLAYERS>
+		<TIME>45 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/257/kill-doctor-lucky</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>King of Tokyo</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2–6 players</PLAYERS>
+		<TIME>30 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/70323/king-tokyo</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Lanterns</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>30 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/160851/lanterns-harvest-festival</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Lock and Key</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>3–6 players</PLAYERS>
+		<TIME>30 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/110868/locke-key-game</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Melee</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2 players</PLAYERS>
+		<TIME>15 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/3464/melee</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Morsels</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2 players</PLAYERS>
+		<TIME>30 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://https://boardgamegeek.com/boardgame/122298/morels</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Munchkin Quest</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>180 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/29678/munchkin-quest</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Munchkins</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>3–6 players</PLAYERS>
+		<TIME>60–120 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/1927/munchkin</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Mysterium</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–7 players</PLAYERS>
+		<TIME>42 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/181304/mysterium</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Orphan Black</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>3–6 players</PLAYERS>
+		<TIME>30 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/175221/orphan-black-card-game</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Outrage</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–6 players</PLAYERS>
+		<TIME>45 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/1147/outrage-steal-crown-jewels</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Pack and Stack</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>3–6 players</PLAYERS>
+		<TIME>30–45 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/37120/pack-stack</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Pandemic: on the brink</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–5 players</PLAYERS>
+		<TIME>45 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgameexpansion/40849/pandemic-brink</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Pandemic</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>45 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/30549/pandemic</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Photosynthesis</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>30–60 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/218603/photosynthesis</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Portal the Uncooperative Cake</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>30–45 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/159406/portal-uncooperative-cake-acquisition-game</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Posthuman</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>1–4 players</PLAYERS>
+		<TIME>30–120 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/171835/posthuman</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Race for the Galaxy</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>30–60 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/28143/race-galax</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Random Encounter</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>1–5 players</PLAYERS>
+		<TIME>15–20 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/177751/random-encounter-plains-troll-king</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Scrabble</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>90 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/320/scrabble</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Settlers of Catan Card Game</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2 players</PLAYERS>
+		<TIME>60–120 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/278/catan-card-game</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Settlers of Catan</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>3–4 players</PLAYERS>
+		<TIME>60–120 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/13/catan</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Slap .45</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>3–7 players</PLAYERS>
+		<TIME>20 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/165633/slap-45</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Smash Up</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>45 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/122522/smash</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Sonar</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–8 players</PLAYERS>
+		<TIME>45–60 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/171131/captain-sonar</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Spaceteam</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>3–6</PLAYERS>
+		<TIME>5 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/184491/spaceteam</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Splender</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4</PLAYERS>
+		<TIME>30 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/148228/splendor</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Star Trek deck-building game</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–5</PLAYERS>
+		<TIME>60–90 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/98242/star-trek-deck-building-game-next-generation</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Survive escape from Atlantis</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>45–60 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/2653/survive-escape-atlantis</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Survive Space Attack</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>45–60 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/177147/survive-space-attacko</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Takenoko</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>45 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/70919/takenoko</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Teenage Mutant Ninja Turtles Shadows</TITLE>
+		<DIFFICULTY>hard</DIFFICULTY>
+		<PLAYERS>2–5 players</PLAYERS>
+		<TIME>60–90 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/180771/teenage-mutant-ninja-turtles-shadows-past</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Terra Mystica</TITLE>
+		<DIFFICULTY>hard</DIFFICULTY>
+		<PLAYERS>2–5 players</PLAYERS>
+		<TIME>60–150 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/120677/terra-mystica</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>The Resistance</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>5–10 players</PLAYERS>
+		<TIME>30 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/41114/resistance</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Then They Held Hands</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2 players</PLAYERS>
+		<TIME>30–45 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/153999/and-then-we-held-hands</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Ticket to Ride New York</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>10–15 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/253284/ticket-ride-new-york</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Ticket to Ride</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–5 players</PLAYERS>
+		<TIME>30–60 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/9209/ticket-ride</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Time Stories</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>90 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/146508/time-stories</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Vineta</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–6 players</PLAYERS>
+		<TIME>45 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/27532/vinetao</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>where in the world is carmen sandiego</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2–6 players</PLAYERS>
+		<TIME>60 Min</TIME>
+		<TYPE>board</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/8009/where-world-carmen-sandiego</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Boss Monster 2</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>20–30 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/174973/boss-monster-2-next-level</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Boss Monster</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>30 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/131835/boss-monster-dungeon-building-card-game</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Bycatch</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>3–5 players</PLAYERS>
+		<TIME>20 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/170174/bycatch</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Chrononauts</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>1–6 players</PLAYERS>
+		<TIME>30 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/815/chrononauts</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Citadels</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–8 players</PLAYERS>
+		<TIME>20–60 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/478/citadels</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Dark Stories</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2–15 players</PLAYERS>
+		<TIME>20 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/18803/black-stories</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Dungeon Busters</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>3–5 players</PLAYERS>
+		<TIME>20 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/172600/dungeon-busters</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Exit</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>1–6 players</PLAYERS>
+		<TIME>45–150 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/203417/exit-game-secret-lab</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Fluxx</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2–6 players</PLAYERS>
+		<TIME>5–30 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/258/fluxx</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>The Game</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>1–5 players</PLAYERS>
+		<TIME>20 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/173090/game</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Hanabi</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>2–5 players</PLAYERS>
+		<TIME>25 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/98778/hanabi</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Harbour</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>1–4 players</PLAYERS>
+		<TIME>30–60 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/155969/harbour</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>Love Letter</TITLE>
+		<DIFFICULTY>easy</DIFFICULTY>
+		<PLAYERS>2–4 players</PLAYERS>
+		<TIME>20 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>https://boardgamegeek.com/boardgame/129622/love-letter</LINK>
+	</GAME>
+	<GAME>
+		<TITLE>MacGyver</TITLE>
+		<DIFFICULTY>medium</DIFFICULTY>
+		<PLAYERS>1–4 players</PLAYERS>
+		<TIME>60 Min</TIME>
+		<TYPE>card</TYPE>
+		<LINK>
+			https://boardgamegeek.com/boardgame/257598/macgyver-escape-room-game</LINK>
+            </GAME>
+			<GAME>
+				<TITLE>Oregon Trail</TITLE>
+				<DIFFICULTY>easy</DIFFICULTY>
+				<PLAYERS>2–6 players</PLAYERS>
+				<TIME>30–45 Min</TIME>
+				<TYPE>card</TYPE>
+				<LINK>https://boardgamegeek.com/boardgame/205322/oregon-trail-card-game</LINK>
+			</GAME>
+			<GAME>
+				<TITLE>Peasant Buffet</TITLE>
+				<DIFFICULTY>easy</DIFFICULTY>
+				<PLAYERS>2–7 players</PLAYERS>
+				<TIME>15 Min</TIME>
+				<TYPE>card</TYPE>
+				<LINK>https://boardgamegeek.com/boardgame/155465/peasant-buffet</LINK>
+			</GAME>
+			<GAME>
+				<TITLE>Pixel Glory</TITLE>
+				<DIFFICULTY>medium</DIFFICULTY>
+				<PLAYERS>2–4 players</PLAYERS>
+				<TIME>25 Min</TIME>
+				<TYPE>card</TYPE>
+				<LINK>https://boardgamegeek.com/boardgame/150014/pixel-glory</LINK>
+			</GAME>
+			<GAME>
+				<TITLE>Sushi Go</TITLE>
+				<DIFFICULTY>easy</DIFFICULTY>
+				<PLAYERS>2–5 players</PLAYERS>
+				<TIME>15 Min</TIME>
+				<TYPE>card</TYPE>
+				<LINK>https://boardgamegeek.com/boardgame/133473/sushi-go</LINK>
+			</GAME>
+			<GAME>
+				<TITLE>Total Rickall</TITLE>
+				<DIFFICULTY>medium</DIFFICULTY>
+				<PLAYERS>2–5 Players</PLAYERS>
+				<TIME>30 Min</TIME>
+				<TYPE>card</TYPE>
+				<LINK>https://boardgamegeek.com/boardgame/194232/rick-and-morty-total-rickall-card-game</LINK>
+			</GAME>
+			<GAME>
+				<TITLE>Unlock</TITLE>
+				<DIFFICULTY>medium</DIFFICULTY>
+				<PLAYERS>2–6 Players</PLAYERS>
+				<TIME>45–75 Min</TIME>
+				<TYPE>card</TYPE>
+				<LINK>https://boardgamegeek.com/boardgame/213460/unlock-escape-adventures</LINK>
+			</GAME>
+		</CATALOG>
