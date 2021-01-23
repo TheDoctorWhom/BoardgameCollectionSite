@@ -24,7 +24,7 @@
               display: block;
             }
             img: hover{
-              
+
             }
         </style>
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -151,7 +151,7 @@ var input, filter, ol, li, a, i, txtValue;
         if (txtValue.includes('hard')) {
             architectureCount++;
             hasFoundTheme = true;
-        } 
+        }
         if (txtValue.includes('medium')) {
             brickheadzCount++;
             hasFoundTheme = true;
@@ -169,7 +169,7 @@ var input, filter, ol, li, a, i, txtValue;
     }// end of i for loop
 
 // Add data
-// for (x = 0; x < theme.length; x++) { 
+// for (x = 0; x < theme.length; x++) {
 //   chart.data[x][0] = theme[x];
 //   chart.data[x][1] = themecount[x];
 // }
@@ -347,12 +347,12 @@ function myFunction(xml) {
   var xmlDoc = xml.responseXML;
   var table='<div class="container">';
   var x = xmlDoc.getElementsByTagName("GAME");
-  for (i = 0; i <x.length; i++) { 
+  for (i = 0; i <x.length; i++) {
     table += '<li><a class="' +
     x[i].getElementsByTagName("DIFFICULTY")[0].childNodes[0].nodeValue+' '+ x[i].getElementsByTagName("TYPE")[0].childNodes[0].nodeValue
 
     +'" href="'+x[i].getElementsByTagName("LINK")[0].childNodes[0].nodeValue+'">'+
-     
+
     x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue+
     "</a></li>";
   }
