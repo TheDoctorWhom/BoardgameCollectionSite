@@ -353,8 +353,11 @@ function myFunction(xml) {
 
     +'" href="'+x[i].getElementsByTagName("LINK")[0].childNodes[0].nodeValue+'">'+
 
-    x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue+
-    "</a></li>";
+    x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue+"</a>"+
+
+    '<img src="'+x[i].getElementsByTagName("IMAGE")[0].childNodes[0].nodeValue+'">'+
+    ''+x[i].getElementsByTagName("DESCRIPTION")[0].childNodes[0].nodeValue+''+
+    +"</li>";
   }
   table += "</div>";
   document.getElementById("myUL").innerHTML = table;

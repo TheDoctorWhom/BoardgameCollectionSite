@@ -1,700 +1,462 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
-	<GAME>
-		<TITLE>Agricola: All Things Big	 and Small</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2 players</PLAYERS>
-		<TIME>30 min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com//boardgame/119890/agricola-all-creatures-big-and-small</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>All Queens Chess</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2 players</PLAYERS>
-		<TIME>? min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/34948/all-queens-chess</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Anatomy Park</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2-4 players</PLAYERS>
-		<TIME>30–60 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/220926/rick-and-morty-anatomy-park-game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Babylon 5</TITLE>
-		<DIFFICULTY>hard</DIFFICULTY>
-		<PLAYERS>2 players</PLAYERS>
-		<TIME>30-60 min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>null</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Boss Monster</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/131835/boss-monster-dungeon-building-card-game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Boss Monster 2</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>20–30 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/174973/boss-monster-2-next-level</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Bycatch</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>3–5 players</PLAYERS>
-		<TIME>20 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/170174/bycatch</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Captain treasure boots</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–6 players</PLAYERS>
-		<TIME>40 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/19114/captain-treasure-boots</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Casscassonne</TITLE>
-		<DIFFICULTY>hard</DIFFICULTY>
-		<PLAYERS>2-5 players</PLAYERS>
-		<TIME>35 min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>null</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Chrononauts</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>1–6 players</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/815/chrononauts</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Citadels</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–8 players</PLAYERS>
-		<TIME>20–60 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/478/citadels</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Cranium</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>4–16 players</PLAYERS>
-		<TIME>60 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/891/cranium</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Cryptid</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>3–5 players</PLAYERS>
-		<TIME>30–50 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/246784/cryptid</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Cutthroat Caverns</TITLE>
-		<DIFFICULTY>hard</DIFFICULTY>
-		<PLAYERS>3-6 players</PLAYERS>
-		<TIME>90 min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>null</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Dark Riders Games</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>3-4 players</PLAYERS>
-		<TIME>? min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>null</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Dark Stories</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2–15 players</PLAYERS>
-		<TIME>20 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/18803/black-stories</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Diamonds</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2–6 players</PLAYERS>
-		<TIME>20–30 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/152162/diamonds</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Dragon Quest</TITLE>
-		<DIFFICULTY>hard</DIFFICULTY>
-		<PLAYERS>2-6 players</PLAYERS>
-		<TIME>Forever</TIME>
-		<TYPE>board</TYPE>
-		<LINK>null</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Dungeon Busters</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>3–5 players</PLAYERS>
-		<TIME>20 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/172600/dungeon-busters</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Entropy</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2–6 players</PLAYERS>
-		<TIME>15 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/171339/entropy</LINK>
-	</GAME>
-		<GAME>
-		<TITLE>Exit</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>1–6 players</PLAYERS>
-		<TIME>45–150 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/203417/exit-game-secret-lab</LINK>
-	</GAME>
-		<GAME>
-		<TITLE>Firefly Out Of The Black</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>3–5 players</PLAYERS>
-		<TIME>45 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/139137/firefly-out-black</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Forbidden Island</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/65244/forbidden-island</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Galaxy Trucker</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4  players</PLAYERS>
-		<TIME>60 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/31481/galaxy-trucker</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>The Game</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>1–5 players</PLAYERS>
-		<TIME>20 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/173090/game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Game of Thrones</TITLE>
-		<DIFFICULTY>hard</DIFFICULTY>
-		<PLAYERS>2 players</PLAYERS>
-		<TIME>30-60 min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>null</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Ghostbuster</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>1–4 players</PLAYERS>
-		<TIME>30–120 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/173275/ghostbusters-board-game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Gloom</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>60 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/12692/gloom</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Hanabi</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–5 players</PLAYERS>
-		<TIME>25 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/98778/hanabi</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Harbour</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>1–4 players</PLAYERS>
-		<TIME>30–60 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/155969/harbour</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>The Haunting House</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2-6 players</PLAYERS>
-		<TIME>45 min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>null</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Hover Kraft</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>any players</PLAYERS>
-		<TIME>? min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>null</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>How to Rob a Bank</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/232079/how-rob-bank</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Indiana Jones DVD Adventure Game</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/35294/indiana-jones-dvd-adventure-game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>The Infinite Boardgame</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>1-6 players</PLAYERS>
-		<TIME>10-45 min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>null</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Jurassic Park Danger</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–5 players</PLAYERS>
-		<TIME>50 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/245431/jurassic-park-danger-adventure-strategy-game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Kill Doctor Lucky</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>3–8 players</PLAYERS>
-		<TIME>45 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/257/kill-doctor-lucky</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>King of Tokyo</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2–6 players</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/70323/king-tokyo</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Lanterns</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/160851/lanterns-harvest-festival</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Lock and Key</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>3–6 players</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/110868/locke-key-game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Love Letter</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>20 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/129622/love-letter</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>MacGyver</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>1–4 players</PLAYERS>
-		<TIME>60 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>
-			https://boardgamegeek.com/boardgame/257598/macgyver-escape-room-game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Melee</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2 players</PLAYERS>
-		<TIME>15 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/3464/melee</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Morsels</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2 players</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://https://boardgamegeek.com/boardgame/122298/morels</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Munchkins</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>3–6 players</PLAYERS>
-		<TIME>60–120 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/1927/munchkin</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Munchkin Quest</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>180 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/29678/munchkin-quest</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Mysterium</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–7 players</PLAYERS>
-		<TIME>42 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/181304/mysterium</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Oregon Trail</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2–6 players</PLAYERS>
-		<TIME>30–45 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/205322/oregon-trail-card-game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Orphan Black</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>3–6 players</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/175221/orphan-black-card-game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Outrage</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–6 players</PLAYERS>
-		<TIME>45 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/1147/outrage-steal-crown-jewels</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Pac-man</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2-4 players</PLAYERS>
-		<TIME>15 min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>null</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Pack and Stack</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>3–6 players</PLAYERS>
-		<TIME>30–45 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/37120/pack-stack</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Pandemic</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>45 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/30549/pandemic</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Pandemic: on the brink</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–5 players</PLAYERS>
-		<TIME>45 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgameexpansion/40849/pandemic-brink</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Peasant Buffet</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2–7 players</PLAYERS>
-		<TIME>15 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/155465/peasant-buffet</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Photosynthesis</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>30–60 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/218603/photosynthesis</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Pixel Glory</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>25 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/150014/pixel-glory</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Portal the Uncooperative Cake</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>30–45 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/159406/portal-uncooperative-cake-acquisition-game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Posthuman</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>1–4 players</PLAYERS>
-		<TIME>30–120 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/171835/posthuman</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Race for the Galaxy</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>30–60 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/28143/race-galax</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Random Encounter</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>1–5 players</PLAYERS>
-		<TIME>15–20 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/177751/random-encounter-plains-troll-king</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>The Resistance</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>5–10 players</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/41114/resistance</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Scrabble</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>90 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/320/scrabble</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Settlers of Catan</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>3–4 players</PLAYERS>
-		<TIME>60–120 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/13/catan</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Settlers of Catan Card Game</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2 players</PLAYERS>
-		<TIME>60–120 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/278/catan-card-game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Slap .45</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>3–7 players</PLAYERS>
-		<TIME>20 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/165633/slap-45</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Smash Up</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>45 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/122522/smash</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Sonar</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–8 players</PLAYERS>
-		<TIME>45–60 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/171131/captain-sonar</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Spaceteam</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>3–6</PLAYERS>
-		<TIME>5 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/184491/spaceteam</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Splender</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/148228/splendor</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Star Trek deck-building game</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–5</PLAYERS>
-		<TIME>60–90 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/98242/star-trek-deck-building-game-next-generation</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Survive Space Attack</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>45–60 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/177147/survive-space-attacko</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Survive escape from Atlantis</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>45–60 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/2653/survive-escape-atlantis</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Sushi Go</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2–5 players</PLAYERS>
-		<TIME>15 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/133473/sushi-go</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Takenoko</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>45 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/70919/takenoko</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Teenage Mutant Ninja Turtles Shadows</TITLE>
-		<DIFFICULTY>hard</DIFFICULTY>
-		<PLAYERS>2–5 players</PLAYERS>
-		<TIME>60–90 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/180771/teenage-mutant-ninja-turtles-shadows-past</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Terra Mystica</TITLE>
-		<DIFFICULTY>hard</DIFFICULTY>
-		<PLAYERS>2–5 players</PLAYERS>
-		<TIME>60–150 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/120677/terra-mystica</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Then They Held Hands</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2 players</PLAYERS>
-		<TIME>30–45 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/153999/and-then-we-held-hands</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Ticket to Ride</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–5 players</PLAYERS>
-		<TIME>30–60 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/9209/ticket-ride</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Ticket to Ride New York</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>10–15 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/253284/ticket-ride-new-york</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Time Stories</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–4 players</PLAYERS>
-		<TIME>90 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/146508/time-stories</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Total Rickall</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–5 Players</PLAYERS>
-		<TIME>30 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/194232/rick-and-morty-total-rickall-card-game</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Unlock</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–6 Players</PLAYERS>
-		<TIME>45–75 Min</TIME>
-		<TYPE>card</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/213460/unlock-escape-adventures</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Vineta</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2–6 players</PLAYERS>
-		<TIME>45 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/27532/vinetao</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Wits and Wagers</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>4-20 players</PLAYERS>
-		<TIME>25 min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>null</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>Zombies!!!</TITLE>
-		<DIFFICULTY>medium</DIFFICULTY>
-		<PLAYERS>2-6 players</PLAYERS>
-		<TIME>40-60 min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>null</LINK>
-	</GAME>
-	<GAME>
-		<TITLE>where in the world is carmen sandiego</TITLE>
-		<DIFFICULTY>easy</DIFFICULTY>
-		<PLAYERS>2–6 players</PLAYERS>
-		<TIME>60 Min</TIME>
-		<TYPE>board</TYPE>
-		<LINK>https://boardgamegeek.com/boardgame/8009/where-world-carmen-sandiego</LINK>
-	</GAME>
+<GAME>
+<TITLE> Agricola: All Creatures Big and Small </TITLE>
+<IMAGE> https://cf.geekdo-images.com/iaxdcb_l3F8McwzyoiiCig__opengraph_left/img/eAByG-uVELyFpScMmHumfOIr6Y8=/fit-in/445x445/filters:strip_icc()/pic1514252.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/119890/agricola-all-creatures-big-and-small </LINK>
+<DESCRIPTION> Breed animals and expand your small farm in this two player version of the original. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>2</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Agricola </TITLE>
+<IMAGE> https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__opengraph/img/j-3lDRZFLI7mKen8PoJKOTSkRY0=/fit-in/1200x630/filters:strip_icc()/pic831744.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/31260/agricola </LINK>
+<DESCRIPTION> "Build your farmstead by sowing fields and raising livestock. But don't forget to eat!" </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> All Queens Chess </TITLE>
+<IMAGE> https://cf.geekdo-images.com/hypupivezq6xv7bHvhe4lQ__opengraph_left/img/I0pq1k3zTwyRIx1MhxpihTs_xe4=/fit-in/445x445/filters:strip_icc()/pic2413004.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/34948/all-queens-chess </LINK>
+<DESCRIPTION> "From the manufacturer's catalog:\n\nA Quacky Strategy Game for Younger Players.\n\nThis competitive board game is like a wacky version of checkers. Kids will giggle at the colorful beach board and plucky duck characters. After deciding whether they want to be the duck that surfs or the one that water skis, the two opponents face off, and try to be the first to line up four ducks in a row. Players can move up and down, side to side, and diagonally, but they can't jump themselves or their opponent. A fun strategy game, players have to pay attention to their opponent's moves, as well as their own.\n\nFor 2 players, Ages 5 - 7.\n\nIncludes 12 plastic duck tokens, and 1 5 x 5 game board." </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Battlestar Galactica: The Board Game </TITLE>
+<IMAGE> https://cf.geekdo-images.com/5Q2w2rFJiFI_uV89KP6ECg__opengraph_left/img/pPpqydtg2VmMyepjs0FiGXo2YWk=/fit-in/445x445/filters:strip_icc()/pic354500.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/37111/battlestar-galactica-board-game </LINK>
+<DESCRIPTION> "How can the human race survive when you don't know who is actually human?" </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Bootleggers </TITLE>
+<IMAGE> https://cf.geekdo-images.com/tvLJz97IYY6mvmvIM2P1NQ__opengraph_letterbox/img/b_Pkx2_MhB9tZt-RKAV3UqYnFqg=/fit-in/1200x630/filters:fill(auto):strip_icc()/pic51819.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/12477/bootleggers </LINK>
+<DESCRIPTION> Control speakeasys, brew and ship hooch, outwit rivals and avoid the cops! </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Carcassonne </TITLE>
+<IMAGE> https://cf.geekdo-images.com/Z3upN53-fsVPUDimN9SpOA__opengraph/img/gDkYLnKK5x5mT7uRqt65YuAgFA4=/fit-in/1200x630/filters:strip_icc()/pic2337577.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/822/carcassonne </LINK>
+<DESCRIPTION> Shape the medieval landscape of France, claiming cities, monasteries and farms. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Star Trek: Catan </TITLE>
+<IMAGE> https://cf.geekdo-images.com/vWOiESQCR1bgIYZiCQrsAA__opengraph_left/img/C2SRd2Q8qunY4Op7UR0pzxsuLhk=/fit-in/445x445/filters:strip_icc()/pic4528659.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/117985/star-trek-catan </LINK>
+<DESCRIPTION> Explorers in the Final Frontier trade, settle, and build where no one has gone before </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Dark Moon </TITLE>
+<IMAGE> https://cf.geekdo-images.com/BhDoxSC8IqhbMRclci76gA__opengraph_left/img/hcJ1VqIVSSFcJZLwjDmXWYpQMo4=/fit-in/445x445/filters:strip_icc()/pic2320134.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/111124/dark-moon </LINK>
+<DESCRIPTION> Who is Infected? Stay alive throughout the sabotage from the hidden traitor(s). </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Deadwood </TITLE>
+<IMAGE> https://cf.geekdo-images.com/9nD65v5MzzawuFS0dbN3oA__opengraph_left/img/RT8EYEejFATKLsefn6fLbS2QLho=/fit-in/445x445/filters:strip_icc()/pic973934.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/96713/deadwood </LINK>
+<DESCRIPTION> "Description from the publisher:\n\nScofflaws are brawling in the streets of Deadwood. The railroad is being built, and to you and the other gangs in the badlands of South Dakota, this means one thing: cold, hard cash. As a cowboy on the wrong side of the law you know just how to take control of this shanty-town: threaten, fight, and kill off your rivals.\n\nDeadwood is a wild-and-wooly board game with a quick and deadly twist on classic worker placement games. Your gang consists of three different classes of cowboys with different strengths: greenhorns, gunslingers, and trail bosses. Cowboys ride into town to gain control of (annex) buildings and fight other gangs' cowboys in shootouts.\n\nAt the beginning of the game, the town of Deadwood consists of the Town Hall, the Church, the Sheriff's Office, the Saloon, and four other randomly drawn buildings. Additional buildings are constructed whenever a cowboy annexes the Town Hall. Each building has at least one unique ability that is used immediately, with some buildings offering more long-term advantages.\n\nA cowboy accesses these advantages by controlling the building. To gain control a player simply places one of his gang on a building tile, "annexing" it. Other gang leaders can try to gain control of your buildings through shootouts. The player that instigates the shootout receives a Wanted Poster token; the more cowboys you try to kill off, the more Wanted Poster tokens you collect, and the higher the fine you must pay at the end of the game.\n\nDeadwood can end one of three ways: the Train Station is placed on the board once the railroad is built and completed, there are no more Wanted Poster tokens in the Crime Pool, or any player has no more cowboys alive. The player with the most cash at the end of the game is the winner!" </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Dead of Winter: A Crossroads Game </TITLE>
+<IMAGE> https://cf.geekdo-images.com/g4mV4BH-ZrhMUVgil-yV1A__opengraph_left/img/PAnbCHqSjkP7d4lLLvmxBjLwimE=/fit-in/445x445/filters:strip_icc()/pic3016500.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/150376/dead-winter-crossroads-game </LINK>
+<DESCRIPTION> As you struggle to keep survivors alive, how will you value group vs. personal needs? </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Dinosaur Island </TITLE>
+<IMAGE> https://cf.geekdo-images.com/hLJv1A1TwrMrLLIJhVpKVA__opengraph_left/img/zBk9h5WKXJsm_HE49HZ_xP6uUoc=/fit-in/445x445/filters:strip_icc()/pic3429338.png </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/221194/dinosaur-island </LINK>
+<DESCRIPTION> Research DNA to bring prehistoric reptiles to life. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Far Space Foundry </TITLE>
+<IMAGE> https://cf.geekdo-images.com/ZAvPj3GtRYj-onXhj3uMIQ__opengraph_left/img/a1_Ll449eSByrxn28Lxm8FBtilM=/fit-in/445x445/filters:strip_icc()/pic2802657.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/160744/far-space-foundry </LINK>
+<DESCRIPTION> "The Far Space Federation is leading an ongoing peacekeeping mission. The crew on the front lines are in constant need of new supplies and equipment, so the Federation has set up a massive supply line network. This network is composed of massive space stations called Foundries. Some Foundries are specialized in mining and processing ore from asteroids. Other Foundries are equipped with robotic manufacturing and repair facilities. Their job is to keep the flow of supplies going efficiently as possible.\n\nThe gameplay in Far Space Foundry occurs in two distinct halves: Space Foundry Alpha and Space Foundry Beta.\n\nAt Space Foundry Alpha, you mine skyrite (blue crystals) and rubion (red ore) and process the two to make galactium (purple metal). On your turn, you play a card that allows you to either land a shuttle on a docking bay or take off from one. The shuttle will transport raw materials either from the asteroid or to your freighters. Each docking bay has a special ability if activated that turn, like ore processing or galactic traders. At this foundry, you must also build a fleet of freighters to haul your items. To do this, you must visit the cantina to recruit help from various alien captains (with unique abilities). Once everyone has played all of their cards, it's time to head off to a new board...\n\nAt Space Foundry Beta, you take all of your acquired materials and transport them down to the station. There the robots will use that material to make various products of varying worth. Besides manufacturing, you may also upgrade your freighters or charge up your existing products for more points. Once the freighters are filled back up again, it's time to transport the items to their final destination for final scoring!" </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Flash Point: Fire Rescue </TITLE>
+<IMAGE> https://cf.geekdo-images.com/v6bTbxeprDFj1nN4AenvjA__opengraph/img/MAGRqG_rp0V3LZFv5ukyjPqljio=/fit-in/1200x630/filters:strip_icc()/pic1129370.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/100901/flash-point-fire-rescue </LINK>
+<DESCRIPTION> Smoke! Fire! Work as a team to save as many as you can from a blazing inferno. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> u'Rick and Morty: Anatomy Park \u2013 The Game </TITLE>
+<IMAGE> https://cf.geekdo-images.com/N__UfTJ77xbl_x1O6GGqxg__opengraph_letterbox/img/2Fqp25CeNpKS-sBFnrGVvFt6YPE=/fit-in/1200x630/filters:fill(auto):strip_icc()/pic3446085.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/220926/rick-and-morty-anatomy-park-game </LINK>
+<DESCRIPTION> "Description from the publisher:\n\nBased on the hilarious "Anatomy Park" episode, each player in Rick and Morty: Anatomy Park attempts to construct the world's greatest theme park inside of a homeless guy named Ruben. Players build while battling both monstrous diseases and fellow park-builders with creative differences concerning how the park should be laid out. The object of the game is to score points by placing your park tiles into the best spots within the body. Move your character pawn around the park to scout out the best locations and stay away from (or shoot) the monster diseases that will pop up and cause chaos. Whoever has the most victory points wins and is the master builder of Anatomy Park!" </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Cranium </TITLE>
+<IMAGE> https://cf.geekdo-images.com/-RAQw4eCx3i__6ctz6-N9A__opengraph_left/img/2jQouhoirO0sG14PoHdVGR0BIN8=/fit-in/445x445/filters:strip_icc()/pic4994220.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/891/cranium </LINK>
+<DESCRIPTION> "Cranium bills itself as the "whole-brain" game. It's a party game that borrows from a host of other popular party games of recent times. Players have to successfully complete activities in each of four sections to win: In \n - Creative Cat : A player must clue a word to his or her teammates by drawing it, sculpting it in clay, or drawing it with his or her eyes closed.\n - Data Head : A variety of trivia questions. \n - Word Worm : Players unscramble words, spell challenging words, guess definitions, identify words with letters left out, or spell words backwords. \n - Star Performer : players must whistle a song, impersonate a celebrity, or act out a clue.\n\nCranium has elements similar to those of Pictionary, Charades, Trivial Pursuit: Genus Edition, Celebrities, Huggermugger, Claymania, etc.\n\nExpanded by:\n\n Cranium Booster Box 1\n Cranium Booster Box 2\n Cranium New York Booster Pack" </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Diamonds: Second Edition </TITLE>
+<IMAGE> https://cf.geekdo-images.com/jWa2swVQ1oJ_lmBjOqKvJA__opengraph/img/_C7dKTZyMTxPgGkpZcCjX5dOXcM=/fit-in/1200x630/filters:strip_icc()/pic4812860.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/152162/diamonds-second-edition </LINK>
+<DESCRIPTION> u'Collect the most diamonds\u2014as in actual jewels. Trick-taking has never been richer! </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Entropy </TITLE>
+<IMAGE> https://cf.geekdo-images.com/SpdJDtxcbt7fW2bXZP58yw__opengraph_letterbox/img/8LK0kaoyYdWJLKTDRmPAQflU1gY=/fit-in/1200x630/filters:fill(auto):strip_icc()/pic2415140.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/171339/entropy </LINK>
+<DESCRIPTION> "Entropy is a competitive card game of risk, deception and action management for 2 to 6 players.\n\nFive parallel worlds have collided, forming a Nexus where time and space is folded unto itself. You play as one of five characters jettisoned from their world and into the Nexus. Through the use of unique character abilities and special actions, players must find fragments of their reality and be the first to piece them back together in order to find their way back home.\n\nEach turn players select an action card in secret. Once players are ready, they simultaneously reveal their selected card. Players then resolve the chosen action in order of the card's initiative, with a value of 1 going first.\n\nShould two or more players select the same action, a temporal clash occurs and players involved in the clash do not get to resolve their action.\n\nAfter four actions have been played, the game moves into a temporal reset phase. During this phase, all cards in the discard pile are shuffled back into the Nexus deck. Players then return played action cards back to their hand and a new round begins.\n\nThe game continues until one player have revealed all four fragments from their character's reality." </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Forbidden Island </TITLE>
+<IMAGE> https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__opengraph/img/bDDEm_SaL2npo49Q-0aDIpyFL00=/fit-in/1200x630/filters:strip_icc()/pic646458.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/65244/forbidden-island </LINK>
+<DESCRIPTION> The island is sinking! Will the brave adventurers save the treasures in time? </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Galaxy Trucker </TITLE>
+<IMAGE> https://cf.geekdo-images.com/gLFt1Kif5Cfag505_COYYw__opengraph/img/_RmgylCHR4AMj7WPBvdXP_tKPzc=/fit-in/1200x630/filters:strip_icc()/pic3926631.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/31481/galaxy-trucker </LINK>
+<DESCRIPTION> Prepare for unknown dangers by building the best spaceship possible. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Ghostbusters: The Board Game </TITLE>
+<IMAGE> https://cf.geekdo-images.com/IQedGDx2PzyIP5nBwV-pfg__opengraph_left/img/Gkr2BYqpGHI7q-i24TqipRJegxM=/fit-in/445x445/filters:strip_icc()/pic2731222.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/173275/ghostbusters-board-game </LINK>
+<DESCRIPTION> An episodic adventure game, busting ghosts and sealing the gates to the Spirit World. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Gloom </TITLE>
+<IMAGE> https://cf.geekdo-images.com/jD7_Ir8gL_9AXC-wjnqjHg__opengraph_letterbox/img/Yoejgk_hGGsdNawotAWqWJuZhO4=/fit-in/1200x630/filters:fill(auto):strip_icc()/pic2080481.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/12692/gloom </LINK>
+<DESCRIPTION> Use transparent cards to tell tragic tales of misery and misfortune. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>card</TYPE>
+</GAME>
+<GAME>
+<TITLE> Indiana Jones DVD Adventure Game </TITLE>
+<IMAGE> https://cf.geekdo-images.com/_cq27o7ZMRj4Y4Pf-RSDTg__opengraph/img/TlWFgDALnKV1SGGOz4gOn1VCZpg=/fit-in/1200x630/filters:strip_icc()/pic323184.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/35294/indiana-jones-dvd-adventure-game </LINK>
+<DESCRIPTION> "Released in 2008 as part of the general licensing push built around the year's new Indy movie, this mass-market game invites players to recreate Indy's previous quests.\n\nBack of Box Description:\n\nJUMP INTO THE ACTION AND CREATE YOUR OWN ADVENTURE!\n\nRelive the fateful moments of your favorite classic Indiana Jones movies and experience what life is like as a great adventurer! Navigate your way through an ancient temple and discover lost relics deep in the heart of the Amazon. Do battle with on-screen villains and race out of the temple before it collapses. If you can solve the on-screen puzzles, uncover the relics, and escape with the most fortune, you win!" </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Jurassic Park: Danger! </TITLE>
+<IMAGE> https://cf.geekdo-images.com/VoTupoMFrFa0mcMRXDBv1Q__opengraph_left/img/gufF8EQLTVeNkbCpRt4Buhe0r84=/fit-in/445x445/filters:strip_icc()/pic4192157.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/245431/jurassic-park-danger </LINK>
+<DESCRIPTION> Alan Grant and friends run and hide from a pack of Dinosaurs who try to eat them. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Kill Doctor Lucky </TITLE>
+<IMAGE> https://cf.geekdo-images.com/HzSvdAtAiktVmdTfDEIayA__opengraph_letterbox/img/PNHWS-_rJo8IXRuvVGNAOrOx4oo=/fit-in/1200x630/filters:fill(auto):strip_icc()/pic2923257.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/257/kill-doctor-lucky </LINK>
+<DESCRIPTION> Chase the despised doctor in his mansion. Catch him alone and end his miserable life. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> King of Tokyo </TITLE>
+<IMAGE> https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__opengraph_left/img/dpljllJJJW_3upxq6vFSXHfd4cQ=/fit-in/445x445/filters:strip_icc()/pic3043734.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/70323/king-tokyo </LINK>
+<DESCRIPTION> "It's a fight to the death when giant monsters battle over Tokyo in this dice-roller." </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Lanterns: The Harvest Festival </TITLE>
+<IMAGE> https://cf.geekdo-images.com/JmY4nVWwW98qEn0NRbKdTw__opengraph/img/wgM2_p9At0K9R8cC07Ds7qQG1xE=/fit-in/1200x630/filters:strip_icc()/pic2372790.png </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/160851/lanterns-harvest-festival </LINK>
+<DESCRIPTION> Decorate the lake with floating lanterns and dedicate your cards to gain honour! </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Melee </TITLE>
+<IMAGE> https://cf.geekdo-images.com/DZDv2n3L_T3CRK_aqNlJ0A__opengraph/img/0RDKuJ0rwZrht_RoGwS2XSZ-lMk=/fit-in/1200x630/filters:strip_icc()/pic4711280.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/3464/melee </LINK>
+<DESCRIPTION> Man-to-man fantasy combat with an RPG flair - the basis for The Fantasy Trip! </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Munchkin Quest </TITLE>
+<IMAGE> https://cf.geekdo-images.com/ICz9kzlFwkvjrNeLOuhIyA__opengraph_left/img/5UVvnqqsK9ugy_jeL2AGjYdKBUs=/fit-in/445x445/filters:strip_icc()/pic294853.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/29678/munchkin-quest </LINK>
+<DESCRIPTION> Silly slapstick humor awaits your greatest dudgeon crawl adventure, Munchkin style. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Mysterium </TITLE>
+<IMAGE> https://cf.geekdo-images.com/wfeAiLK5n5hD1omhnlYLLA__opengraph_left/img/n-7Nna7pxpnbJN4K54_qMEJhTt0=/fit-in/445x445/filters:strip_icc()/pic2601683.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/181304/mysterium </LINK>
+<DESCRIPTION> Become a psychic and divine spectral visions to solve the murder of a restless ghost. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Orphan Black: The Card Game </TITLE>
+<IMAGE> https://cf.geekdo-images.com/RYwSeiRIA7bU_-mjZ5CZNQ__opengraph_left/img/tUuxDuYUgS0KYDVJ1siODTBqt44=/fit-in/445x445/filters:strip_icc()/pic2462178.png </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/175221/orphan-black-card-game </LINK>
+<DESCRIPTION> "Description from the publisher:\n\nThe television series Orphan Black introduced viewers to a world where human cloning is a hidden reality, but everyone's motive is in question.\n\nIn Orphan Black: The Card Game, you are secretly assigned to one of three teams: the Proletheans, Neolutionists, or The Black. The goal of the game is to influence as many clones into joining your faction as possible, while also keeping your opponents guessing as to which of the three factions you're really working for. If you can keep other players in the dark while secretly exerting influence on your targets, you'll come out on top." </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Outrage! Steal the Crown Jewels </TITLE>
+<IMAGE> https://cf.geekdo-images.com/jK6p8viUh6KIbH93PSwsDw__opengraph/img/UFlsxaZMyvt0b2qFxExkeCM75m4=/fit-in/1200x630/filters:strip_icc()/pic11208.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/1147/outrage-steal-crown-jewels </LINK>
+<DESCRIPTION> The Official Tower of London Board Game\nThe Challenge. You have been challenged to enter the Tower of London, steal one or more of the Crown Jewels and escape. This is no easy task. The Jewels are housed in the White Tower in the centre of the Fortress. The White Tower is surrounded by walls and towers, beyond which, on the north, east and west sides, lies an uncrossable moat. To the south is the River Thames.\nSecurity within the Tower of London is such that you cannot bring anything with you which might asssist you. All the equipment necessary must be gathered while you move around inside the Tower of London looking like an innocent visitor. You may wish to attempt the challenge individually or in teams. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>card</TYPE>
+</GAME>
+<GAME>
+<TITLE> Pandemic </TITLE>
+<IMAGE> https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__opengraph/img/2t9csy41BOj4XfPzoFjWRh0tieE=/fit-in/1200x630/filters:strip_icc()/pic1534148.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/30549/pandemic </LINK>
+<DESCRIPTION> Your team of experts must prevent the world from succumbing to a viral pandemic. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Portal: The Uncooperative Cake Acquisition Game </TITLE>
+<IMAGE> https://cf.geekdo-images.com/nyn3n3wJXVOBxhKi8Arstw__opengraph_left/img/aVA3Hjqeg5R_9V6qzBHKTMJI3EY=/fit-in/445x445/filters:strip_icc()/pic4245101.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/159406/portal-uncooperative-cake-acquisition-game </LINK>
+<DESCRIPTION> The Lab is an ever-changing conveyor belt of death, use test subjects For Science! </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Posthuman </TITLE>
+<IMAGE> https://cf.geekdo-images.com/Qsj9cmhP2PeQ-f3Fs9gNRA__opengraph_left/img/9OoJv2F7rqYTzLuy77SMH-i63OQ=/fit-in/445x445/filters:strip_icc()/pic2718965.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/171835/posthuman </LINK>
+<DESCRIPTION> "Our aspiration to omnipotence has led to the enhancement of our capacities so far beyond our species' limits that we created our genetic successors. Inevitably, the evolved reached their first realization as a unified entity: the extinction of humanity as we know it.\n\nPosthuman pits you as one of the last human survivors in a world where nature is reclaiming the planet and our evolved offspring are working to eradicate us. Will you resist mutation and survive, or give in to the inevitable and join the evolved?\n\nIn the game, players are humans on a solitary journey to a promised safe house. This journey takes them through ten zones, with the zones being tile-based and randomly generated. As they travel, they encounter each other, other humans, and posthuman mutants. Encounters with mutants may inflict scars, and the more scars players have, the less human they are and the more posthuman they become. Will they strive to cling to their humanity and make a run for the safe house, winning the game? Or will they give in to the ever more tempting mutation, join the posthuman, and deny the win from the rest of the humans?" </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Race for the Galaxy </TITLE>
+<IMAGE> https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__opengraph/img/-hMNaGhV5ddMsGFRRs8txp1y3xI=/fit-in/1200x630/filters:strip_icc()/pic5261714.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/28143/race-galaxy </LINK>
+<DESCRIPTION> "Worlds await! Colonize, develop and conquer taking advantage of others' choices." </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Teenage Mutant Ninja Turtles: Shadows of the Past </TITLE>
+<IMAGE> https://cf.geekdo-images.com/LXSfVO9cunblJDIfh_Mkog__opengraph_left/img/SDLNLxARTVIUFVKzuCvtfMNJ8uE=/fit-in/445x445/filters:strip_icc()/pic2948022.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/180771/teenage-mutant-ninja-turtles-shadows-past </LINK>
+<DESCRIPTION> "Teenage Mutant Ninja Turtles: Shadows of the Past is a scenario-driven campaign game that features story content from the IDW TMNT comic. One player takes on the role of the ultimate villain Shredder, while the others take the role of their favorite Turtle. The Turtle players battle their way through a series of 60-90 minute missions in which they develop their characters' strengths, fighting styles, and equipment along the way to create a lasting story arc. Fan-favorite characters like Casey Jones and Alopex appear throughout the missions as the Turtles call on their closest allies for help in battling their deadliest foes." </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Smash Up </TITLE>
+<IMAGE> https://cf.geekdo-images.com/c1DOHkXD35OcqfPoxoSXlA__opengraph_left/img/X_ZY0buESbLnwQEgonkXfdZze1c=/fit-in/445x445/filters:strip_icc()/pic1269874.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/122522/smash </LINK>
+<DESCRIPTION> Combine disparate groups to earn victory points and change the rules in the process. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>card</TYPE>
+</GAME>
+<GAME>
+<TITLE> Splendor </TITLE>
+<IMAGE> https://cf.geekdo-images.com/rwOMxx4q5yuElIvo-1-OFw__opengraph/img/lxCt2Df9465sz3ufOWlGxrA2iJ8=/fit-in/1200x630/filters:strip_icc()/pic1904079.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/148228/splendor </LINK>
+<DESCRIPTION> Renaissance merchants race to grab gems, acquire property, and please nobility. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Survive: Escape from Atlantis! </TITLE>
+<IMAGE> https://cf.geekdo-images.com/0M2ck50-GanxBWfOHUZ64A__opengraph_left/img/EglxPcJe4fVG2MsZYw0d4BIJR1I=/fit-in/445x445/filters:strip_icc()/pic1300182.png </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/2653/survive-escape-atlantis </LINK>
+<DESCRIPTION> Sharks, whales, and sea monsters, oh my! Hurry and escape before Atlantis disappears! </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Survive: Space Attack! </TITLE>
+<IMAGE> https://cf.geekdo-images.com/_x1axC6P3thsNvFMsxZoCg__opengraph_left/img/ZB5PFfs7UaUaSgsPhKrbkO2LJ8M=/fit-in/445x445/filters:strip_icc()/pic2506676.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/177147/survive-space-attack </LINK>
+<DESCRIPTION> Welcome to the height of technology and comfort, the Space Station Atlantis! All the comfort of a five star hotel, mixed with the adventure of space travel. The station is filled with staff, entertainers and guests trying to enjoy their out-of-this-world vacation. But all of a sudden, the Atlantis comes under attack by aliens!\n\nAfter getting the guests to safety, the crew rushes to escape. Some will find space on the limited escape pods, others will board fighters and attempt to destroy the aliens. The unlucky ones will have to trust in their space suits and float for it. But with the alien Warriors, Spawns, and Queens patrolling the space around the station, it will not be an easy trip!\n\nWho will be able to jump to safety?\n\nSurvive: Space Attack! utilizes similar base mechanics to the best-selling game Survive: Escape From Atlantis! designed by Julian Courtland-Smith. However, Survive: Space Attack! has been reimagined and redesigned by Brian, Sydney, and Geoff Englestein, the designers of Space Cadets and Space Cadets: Dice Duel and the expansions for these games.\n\nThe additional features of the new Survive: Space Attack! include:\n\n- Double-sided Game Board: enables a variety of starting setups each with its own challenges.\n- New Fighter Ships: gives players the ability to capture and redeploy alien creatures.\n- Laser Turrets: a new weapon system to defend the space station against the aliens.\n- New Tile Abilities: new powers that are combinable, plus four different tile thicknesses for a 3-D look.\n- New Alien Creature Powers: alien creatures may evolve to become even more powerful. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Captain Sonar </TITLE>
+<IMAGE> https://cf.geekdo-images.com/eVy9IyAVtzzKv2VvPHFPbA__opengraph_left/img/OC6NkTWgMA6Xu956CIeI1Yy_tDg=/fit-in/445x445/filters:strip_icc()/pic3013621.png </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/171131/captain-sonar </LINK>
+<DESCRIPTION> "Torpedoes away! Hunt for your opponent's sub in this exciting, real-time team game." </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Takenoko </TITLE>
+<IMAGE> https://cf.geekdo-images.com/uvz-5V6A2R6dp2oWIXmj_g__opengraph_left/img/2ICdrk-fq5sWfUdO9q2vXzssy9Q=/fit-in/445x445/filters:strip_icc()/pic1912529.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/70919/takenoko </LINK>
+<DESCRIPTION> Carefully cultivate a bamboo garden with the help of a gardener and a hungry panda. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Terra Mystica </TITLE>
+<IMAGE> https://cf.geekdo-images.com/bre12I1YiXkZr7elvriz4A__opengraph/img/ytQCEe2nHva1bxnCi5mFWA1n8TE=/fit-in/1200x630/filters:strip_icc()/pic5375624.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/120677/terra-mystica </LINK>
+<DESCRIPTION> Play fantastical factions. Expand your influence by terraforming and joining cults. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Ticket to Ride </TITLE>
+<IMAGE> https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__opengraph_left/img/VZeQDxiS3W0JHnTtHJVbGPB2cg4=/fit-in/445x445/filters:strip_icc()/pic38668.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/9209/ticket-ride </LINK>
+<DESCRIPTION> Build your railroad across North America to connect cities and complete tickets. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> T.I.M.E Stories </TITLE>
+<IMAGE> https://cf.geekdo-images.com/XmwCsjQ3C1Ul53ZN2o8Q-Q__opengraph_left/img/H97iIMgB6XhPxkX-JIY7hgmamhM=/fit-in/445x445/filters:strip_icc()/pic2617634.png </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/146508/time-stories </LINK>
+<DESCRIPTION> Protect the world from paradoxes with your team of time-traveling agents. </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
+<GAME>
+<TITLE> Zombies!!! </TITLE>
+<IMAGE> https://cf.geekdo-images.com/MLkRHrISvHx8plwBsCk9iw__opengraph/img/7w8HBMOS2492auaJWXVwyD2omFA=/fit-in/1200x630/filters:strip_icc()/pic2525171.jpg </IMAGE>
+<LINK> https://boardgamegeek.com/boardgame/2471/zombies </LINK>
+<DESCRIPTION> Be the first survivor to reach the helipad and leave or kill 25 zombies to win! </DESCRIPTION>
+<DIFFICULTY>null</DIFFICULTY>
+<PLAYERS>null</PLAYERS>
+<TIME>null</TIME>
+<TYPE>board</TYPE>
+</GAME>
 </CATALOG>
