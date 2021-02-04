@@ -119,6 +119,8 @@ var chart = am4core.create("chartdiv", am4charts.PieChart);
 
 // count Vars
 var architectureCount=0, brickheadzCount=0, creatorCount=0, friendsCount=0, hiddensideCount=0, holidayCount=0, ideasCount=0, jurassicparkCount=0, lotrCount=0, movieCount=0, ninjagoCount=0, promotionalCount=0, starwarsCount=0, technicCount=0, townCount=0, unikittyCount=0, xtraCount=0, harrypotterCount=0, marvelCount=0; dotsCount=0; otherCount=0; marioCount=0;
+var cardCountHard =0, cardCountMedium=0, cardCountEasy=0, boardCountHard=0, boardCountMedium=0, boardCountEasy=0;
+
 var theme=[];
 var themecount=[2,3];
 
@@ -148,16 +150,28 @@ var input, filter, ol, li, a, i, txtValue;
           }
 
         }// end of x for loop
-        if (txtValue.includes('hard')) {
-            architectureCount++;
+        if (txtValue.includes('hard')&&txtValue.includes('card')) {
+            cardCountHard++;
             hasFoundTheme = true;
         }
-        if (txtValue.includes('medium')) {
-            brickheadzCount++;
+        if (txtValue.includes('medium')&&txtValue.includes('card')) {
+            cardCountMedium++;
             hasFoundTheme = true;
         }
-        if (txtValue.includes('easy')) {
-            creatorCount++;
+        if (txtValue.includes('easy')&&txtValue.includes('card')) {
+            cardCountEasy++;
+            hasFoundTheme = true;
+        }
+        if (txtValue.includes('hard')&&txtValue.includes('board')) {
+            boardCountHard++;
+            hasFoundTheme = true;
+        }
+        if (txtValue.includes('medium')&&txtValue.includes('board')) {
+            boardCountMedium++;
+            hasFoundTheme = true;
+        }
+        if (txtValue.includes('easy')&&txtValue.includes('board')) {
+            boardCountEasy++;
             hasFoundTheme = true;
         }
         if (hasFoundTheme === false)
@@ -175,14 +189,17 @@ var input, filter, ol, li, a, i, txtValue;
 // }
 
 chart.data = [ {
-  "theme": "Hard",
-  "count": architectureCount
+  "game": "board",
+  "hard": boardCountHard,
+  "medium": boardCountMedium,
+  "easy": boardCountEasy,
+  "total": boardCountEasy+boardCountMedium+boardCountHard
 }, {
-  "theme": "Medium",
-  "count": brickheadzCount
-}, {
-  "theme": "Easy",
-  "count": creatorCount
+  "game": "card",
+  "hard": cardCountHard,
+  "medium": cardCountMedium,
+  "easy": cardCountEasy,
+  "total": cardCountEasy+cardCountMedium+cardCountHard
 } ];
 
 // Set inner radius
@@ -190,8 +207,8 @@ chart.innerRadius = am4core.percent(50);
 
 // Add and configure Series
 var pieSeries = chart.series.push(new am4charts.PieSeries());
-pieSeries.dataFields.value = "count";
-pieSeries.dataFields.category = "theme";
+pieSeries.dataFields.value = "hard";
+pieSeries.dataFields.category = "game";
 pieSeries.slices.template.stroke = am4core.color("#fff");
 pieSeries.slices.template.strokeWidth = 2;
 pieSeries.slices.template.strokeOpacity = 1;
@@ -200,6 +217,50 @@ pieSeries.slices.template.strokeOpacity = 1;
 pieSeries.hiddenState.properties.opacity = 1;
 pieSeries.hiddenState.properties.endAngle = -90;
 pieSeries.hiddenState.properties.startAngle = -90;
+
+// Disabling labels and ticks on inner circle
+pieSeries.labels.template.disabled = true;
+pieSeries.ticks.template.disabled = true;
+
+// Disable sliding out of slices
+pieSeries.slices.template.states.getKey("hover").properties.shiftRadius = 0;
+pieSeries.slices.template.states.getKey("hover").properties.scale = 0.9;
+
+// Add second series
+var pieSeries2 = chart.series.push(new am4charts.PieSeries());
+pieSeries2.dataFields.value = "easy";
+pieSeries2.dataFields.category = "game";
+pieSeries2.slices.template.stroke = am4core.color("#fff");
+pieSeries2.slices.template.strokeWidth = 2;
+pieSeries2.slices.template.strokeOpacity = 1;
+pieSeries2.slices.template.states.getKey("hover").properties.shiftRadius = 0;
+pieSeries2.slices.template.states.getKey("hover").properties.scale = 1.1;
+
+// Disabling labels and ticks on inner circle
+pieSeries2.labels.template.disabled = true;
+pieSeries2.ticks.template.disabled = true;
+
+var pieSeries3 = chart.series.push(new am4charts.PieSeries());
+pieSeries3.dataFields.value = "medium";
+pieSeries3.dataFields.category = "game";
+pieSeries3.slices.template.stroke = am4core.color("#fff");
+pieSeries3.slices.template.strokeWidth = 2;
+pieSeries3.slices.template.strokeOpacity = 1;
+pieSeries3.slices.template.states.getKey("hover").properties.shiftRadius = 0;
+pieSeries3.slices.template.states.getKey("hover").properties.scale = 1.1;
+
+// Disabling labels and ticks on inner circle
+pieSeries3.labels.template.disabled = true;
+pieSeries3.ticks.template.disabled = true;
+
+var pieSeries4 = chart.series.push(new am4charts.PieSeries());
+pieSeries4.dataFields.value = "total";
+pieSeries4.dataFields.category = "game";
+pieSeries4.slices.template.stroke = am4core.color("#fff");
+pieSeries4.slices.template.strokeWidth = 2;
+pieSeries4.slices.template.strokeOpacity = 1;
+pieSeries4.slices.template.states.getKey("hover").properties.shiftRadius = 0;
+pieSeries4.slices.template.states.getKey("hover").properties.scale = 1.1;
 
 } // end am4core.ready()
 </script>
